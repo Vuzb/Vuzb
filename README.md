@@ -6,9 +6,9 @@
 
 ## About Me
 
-Hey, I’m Sepehr—a student who loves solving problems with code. I’ve put in serious hours working with **JavaScript**, **Python**, and **C++**, and I’m constantly experimenting with better ways to build fast, clean, and purposeful software.
+Hey, I’m a student who loves solving problems with code. I’ve put in serious hours working with **JavaScript**, **Python**, and **C++**, and I’m constantly experimenting with better ways to build fast, clean, and purposeful software.
 
-I’m not trying to impress anyone—just focused on writing code that works, looks good, and feels right to use.
+I’m not trying to impress anyone just focused on writing code that works, looks good, and feels right to use.
 
 ---
 
