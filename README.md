@@ -1,50 +1,45 @@
-# S. Nick Kherad | NickKherad™
+# Sepehr
 
-**Architecting Code. Engineering Luxury.**
+**Student. Builder. Always learning.**
 
 ---
 
 ## About Me
 
-I’m S. Nick Kherad, founder of **NickKherad™**, a high-end software development entity focused on precision-engineered solutions and visually stunning interfaces. With over **39,500+ hours** in advanced development across **JavaScript, Python, C++**, and scripting, I operate at the intersection of **luxury UI/UX** and **high-performance engineering**.
+Hey, I’m Sepehr—a student who loves solving problems with code. I’ve put in serious hours working with **JavaScript**, **Python**, and **C++**, and I’m constantly experimenting with better ways to build fast, clean, and purposeful software.
 
-My methodology blends exacting standards with future-forward execution. Every product I touch is built for clarity, efficiency, and perfection. I don’t build typical software—I craft elite digital experiences.
-
----
-
-## Expertise
-
-- **Full-Stack Web Engineering**
-  - JavaScript (React, Next.js, Vanilla)
-  - Python (FastAPI, Scripting, Automation)
-  - C++ (High-performance modules & tooling)
-- **Luxury-Grade UI/UX**
-  - Phantom Black & Marble White aesthetics
-  - Advanced particle systems & animated interfaces
-  - Pixel-perfect, code-light interaction design
-- **Custom DevOps & Automation**
-  - CI/CD optimization
-  - Precision scripting for efficiency at scale
+I’m not trying to impress anyone—just focused on writing code that works, looks good, and feels right to use.
 
 ---
 
-## Philosophy
+## What I Work With
 
-> “Function should be flawless. Form should feel inevitable.”
+- **Web Development**
+  - JavaScript / React / Next.js
+  - Tailwind / UI logic / clean component design
 
-No comments, no clutter—only clean, optimized, production-grade output. Every line of code serves a purpose. If it’s not exceptional, it doesn’t ship.
+- **Backend & Automation**
+  - Python scripting / FastAPI
+  - Lightweight automations and tooling
+
+- **Systems & Performance**
+  - C++ for low-level tasks and optimization
+  - DevOps basics / scripting for efficiency
 
 ---
 
-## Current Focus
+## How I Think
 
-🚧 Setting up [**nickkherad.com**](https://www.nickkherad.com) – a flagship showcase of elite digital craftsmanship, entirely built using **free resources**, handcrafted animations, and meticulously styled components.
+I care about clarity, speed, and not overcomplicating things. Most of what I write is built with simplicity and scalability in mind—no unnecessary layers, no clutter.
+
+If I’m not building, I’m probably rebuilding it better.
 
 ---
 
-## Let’s Connect
+## Now
 
-- **Website:** [nickkherad.com](https://www.nickkherad.com)
+Currently exploring new stacks, refining design workflows, and just building for fun.
+
 ---
 
-**NickKherad™** – Elegance. Precision. Performance.
+**Feel free to check out what I’m working on.**
